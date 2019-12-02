@@ -1,4 +1,4 @@
-namespace GiraffeApiScaffold
+namespace Garage.FSharp
 open System.Threading.Tasks
 open FSharp.Control.Tasks.V2
 
